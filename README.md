@@ -25,7 +25,7 @@ These technologies were chosen for their simplicity, accessibility, and ability 
 1. Clone the repository:
    ```bash
    git clone https://github.com/fzhnd/to-do-list.git
-   cd todo-list-app
+   cd to-do-list
    ```
 
 2. Open the project:
