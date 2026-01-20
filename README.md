@@ -24,7 +24,7 @@ These technologies were chosen for their simplicity, accessibility, and ability 
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/fzhnd/capstone-project.git
+   git clone https://github.com/fzhnd/to-do-list.git
    cd todo-list-app
    ```
 
